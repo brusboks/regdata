@@ -1,0 +1,63 @@
+---
+description: Spørreundersøkelse eller registerdata
+---
+
+# Valg av datakilde
+
+Når du skal velge datakilde til et forskningsprosjekt, står du ofte overfor et viktig valg: Skal du samle inn egne data gjennom for eksempel en spørreundersøkelse, eller bruke allerede eksisterende registerdata? Begge tilnærmingene har fordeler og ulemper.
+
+&#x20;
+
+## Muligheter og begrensinger ved spørreundersøkelser
+
+Spørreundersøkelser gir en fleksibel måte å samle inn data på. De kan skreddersys til en bestemt problemstilling og brukes til å fange opp forhold som ikke finnes i registre, som holdninger, oppfatninger og personlige erfaringer. Hvis man vil vite hvordan deltakere på et arbeidsmarkedstiltak opplever mestring og motivasjon, finnes det ingen registre som kan gi svaret. Det finnes tross alt ikke et administrativt «Følelsesregister».
+
+I tillegg gir spørreundersøkelser mulighet for å samle inn data med høy aktualitet. Når du selv styrer datainnsamlingen, kan du stille spørsmål om noe som skjer akkurat nå, for eksempel hvordan folk opplever økonomisk usikkerhet i en pågående krise, eller hva de mener om en ny politisk reform. Registerdata, derimot, krever ofte tidkrevende prosesser før de er klare for forskning. Dataene må hentes ut, kontrolleres, anonymiseres og tilrettelegges, noe som gjør at de ofte er ett eller to år gamle når de blir tilgjengelige. Hvis det er viktig å fange opp ferske utviklingstrekk i samfunnet, kan spørreundersøkelser derfor være et bedre verktøy.
+
+Samtidig har spørreundersøkelser kjente utfordringer. Spørsmål kan misforstås, særlig hvis de er uklart formulert eller bruker faguttrykk. Svarene kan også være unøyaktige, enten fordi folk ønsker å framstille seg selv i et bedre lys, eller rett og slett ikke husker riktig, som når de blir spurt om inntekt (ref ["Hvor stor var din inntekt i fjor?" - SSB](https://www.ssb.no/inntekt-og-forbruk/artikler-og-publikasjoner/hvor-stor-var-din-inntekt-i-fjor)). I tillegg kan mange velge å ikke svare. Hvis frafallet er systematisk, for eksempel at unge eller personer med lav inntekt er underrepresentert, kan resultatene bli skjeve og ikke gi et riktig bilde av virkeligheten.
+
+Å gjennomføre spørreundersøkelser kan dessuten være kostbart. Det krever ressurser både i form av tid, penger og personell. Det skal utvikles gode spørreskjemaer, velges et egnet utvalg, distribueres henvendelser (ofte med påminnelser), og ikke minst skal dataene samles inn, kontrolleres og bearbeides. Dessuten krever representerer det å svare en rapporteringsbyrde for deltakerne. Informantene skal sette av tid til å lese, forstå og svare på spørsmålene, ofte om temaer de må tenke gjennom og noen ganger lete fram informasjon om. Dette kan oppleves som tidkrevende eller belastende, spesielt når spørsmålene er mange, detaljerte eller oppfattes som sensitive.
+
+Et annet viktig poeng er at undersøkelser bygger på utvalg, ikke hele befolkningen. Selv om utvalget kan være representativt, gir det begrensninger når man vil studere små grupper. I en levekårsundersøkelse blant innvandrere kan det for eksempel være for få nyankomne flyktninger til at man kan analysere dem som egen gruppe. Tilsvarende kan det være vanskelig å si noe sikkert om unge uføre når bare et fåtall av dem deltar.
+
+## Muligheter ved bruk av registerdata
+
+En stor styrke ved registerdata er at de ofte dekker hele populasjoner, det være seg alle som mottar uføretrygd, alle som er registrert som arbeidsledige, alle som mottar oppfølging fra spesialisthelsetjenesten eller inntekten til hele befolkningen. Dette gir et svært solid datagrunnlag. I stedet for å gjøre antakelser om hvordan et utvalg representerer resten av befolkningen, kan man i mange tilfeller faktisk studere alle i en bestemt populasjon. Dette gir oss som forskere et presist bilde av virkeligheten, uten at resultatene påvirkes av frafall eller utvalgsskjevheter som man ofte må forholde seg til i spørreundersøkelser.
+
+Siden registerdata inkluderer hele populasjoner, gir de også gode muligheter til å studere små eller spesialiserte grupper. Det kan for eksempel være nyankomne flyktninger, unge uføre eller personer med en bestemt type helsetilstand. Slike grupper er ofte for små til å kunne analyseres i vanlige spørreundersøkelser, fordi det rett og slett ikke er nok respondenter fra gruppen i utvalget. Med registerdata får man likevel nok observasjoner til å gjøre egne analyser og si noe meningsfullt om disse gruppene.
+
+Når du bruker registerdata, slipper du å gjennomføre egen datainnsamling. Opplysningene er allerede samlet inn av offentlige etater, som en del av deres forvaltningsansvar. Dette gjør registerdata til en relativt rimelig kilde for forskning. Du trenger verken lage spørreskjemaer, sende ut henvendelser eller følge opp respondenter. Det eneste som gjenstår er å få tilgang til dataene. Dette er en prosess som kan kreve noe tid og innsikt i regelverk, men som likevel ofte er langt mindre kostbar enn å starte en undersøkelse fra bunnen av. \[Kommentar: Men utgiftene til dataleverandør (for eksempel SSB) skal dekkes)
+
+Registerdata er gjerne strukturert etter faste tidspunkter, som måned, kvartal eller år. Det betyr at du som forsker kan få tilgang til data med jevn og konsistent tidsmessig oppdatering. Dette gjør det lettere å sammenligne informasjon over tid, for eksempel hvordan folks inntekt har utviklet seg gjennom ulike faser av livet, eller hvordan sykefravær har endret seg før og etter en reform. Den regelmessige datainnsamlingen gir også god kontroll over når opplysningene gjelder.
+
+Fordi registerdata er hentet fra allerede eksisterende kilder, påfører de ingen ekstra belastning for dem opplysningene gjelder. Respondentene trenger ikke å sette av tid til å svare på spørsmål eller lete fram informasjon – alt dette er allerede gjort som en del av vanlige administrative prosesser. For forskeren betyr dette at datakvaliteten ikke påvirkes av om folk er villige til å delta eller ikke.
+
+&#x20;
+
+[<mark style="color:$danger;">\[«NOTE TO SELF».. UFULLSTENDIG – SKILLE MELLOM SAKSBEHANDLERE OG SAMLING AV INFO GITT FRA INNBYGGERE\]</mark>](#user-content-fn-1)[^1]
+
+Når personer rapporterer inn opplysninger til det offentlige som gjelder skatt, utdanning eller trygdeytelser, har de ofte sterk motivasjon for å være nøyaktige. Dette er informasjon som kan ha konsekvenser for hva de får utbetalt, hvilke rettigheter de har, eller hva de må betale i skatt. Dermed er det grunn til å tro at dataene i registrene er mer pålitelige enn det man ofte får gjennom selvrapportering i intervjuer, spesielt når det gjelder faktainformasjon som inntekt, arbeid, helsetjenestebruk og utdanning.
+
+## Ulemper ved registerdata
+
+Selv om registerdata har mange fordeler, finnes det også begrensninger som forskere må være oppmerksomme på. Her er noen av de viktigste utfordringene:
+
+Når du bruker registerdata, må du forholde deg til det som faktisk er registrert, ikke det du kunne ønske var registrert. Du kan for eksempel ikke legge til spørsmål om holdninger, motivasjon eller opplevelser, fordi slike subjektive forhold ikke inngår i administrative systemer. Dette begrenser hvilke typer forskningsspørsmål du kan stille. Hvis du for eksempel ønsker å vite hvordan personer opplevde møtet med Nav, eller hvor fornøyde de er med et helsetilbud, finnes det ingen «opplevelsesvariabler» i registerdata, fordi slike data ikke er nødvendige for saksbehandlingen.
+
+Begreper og kategorier i registerdata er ofte utviklet for å dekke behov i offentlig forvaltning, ikke for forskning. Det betyr at variabler kan være definert på måter som ikke passer til forskningsspørsmålene dine. Du må derfor sette deg inn i hva dataene egentlig måler, og hvilke avgrensninger som er gjort. En variabel som sier om en person er «sysselsatt» som er konstruert på bakgrunn av opplysninger fra et administrativt register kan for eksempel bygge på et minimum av inntekt i en bestemt periode, og fange opp folk som jobber bare noen få timer i uka. Hvis du ønsker å undersøke stabil tilknytning til arbeidslivet, må du derfor kanskje kombinere flere opplysninger.
+
+Før registerdata kan brukes til forskning, må de hentes ut, bearbeides og kontrolleres. Dette tar tid, og det betyr at dataene ofte er ett eller to år gamle når de blir tilgjengelige for forskere. For enkelte typer registre er produksjonstiden spesielt lang. For eksempel er inntektsdata fra Skattemeldingsregisteret avhengige av at alle skattytere har levert selvangivelsen, at opplysningene er kontrollert og at ligningen er gjennomført. Dette er en omfattende prosess som gjerne ikke er fullført før sent på året etter inntektsåret. Dermed egner ikke registerdata seg like godt for å studere helt ferske hendelser. Hvis du vil undersøke hvordan husholdningenes økonomi påvirkes av en pågående inflasjonskrise, må du ofte vente lenge før oppdaterte inntektsdata er klare.
+
+Kvaliteten på dataene avhenger av hvor viktig opplysningene er for det administrative systemet. Variabler som er sentrale i saksbehandling, som inntekt, utdanning og trygdeytelser, har som regel høy kvalitet. Men for variabler som bare registreres rutinemessig eller sjeldnere, kan det mangle fullstendighet, nøyaktighet eller stabilitet over tid. Derfor kan en variabel som sier noe om bruk av tolk i helsetjenesten kan være ufullstendig, fordi det ikke er påbudt å registrere dette systematisk, mens inntekt fra arbeid er godt dokumentert, fordi det er viktig for skatt og trygd.
+
+Registerdata gjør det mulig å følge utvikling over tid, men bare dersom registreringsrutinene og regelverket holder seg stabile. Når offentlige systemer endrer hvordan de samler inn, klassifiserer eller rapporterer informasjon, kan det oppstå brudd i dataseriene. Dette gjør det vanskelig å sammenligne tall før og etter endringen, fordi endringene i dataene ikke nødvendigvis gjenspeiler reelle samfunnsendringer. Et brudd kan for eksempel oppstå dersom Nav endrer definisjonen på hvem som regnes som å ha «nedsatt arbeidsevne». En slik omlegging kan føre til at antallet personer med nedsatt arbeidsevne faller eller stiger brått, uten at det egentlig har skjedd noe nytt på arbeidsmarkedet. På samme måte kan endringer i vilkårene for å motta en ytelse som uføretrygd, påvirke hvem som inngår i populasjonen. Dersom det blir strengere krav for å få innvilget uføretrygd, kan det føre til færre mottakere, selv om antallet med nedsatt arbeidsevne i befolkningen er uendret. Slike endringer i regelverk eller praksis må derfor alltid tas med i betraktningen når man bruker registerdata i forskning.
+
+Når du skal velge hvilken type data som passer til ditt prosjekt, er det viktig å tenke gjennom både hva du ønsker å finne ut av, og hvilke styrker og svakheter de ulike kildene har. Registerdata og spørreundersøkelser utfyller hverandre, men har ulike forutsetninger og begrensninger. Figuren under gir en oppsummering av de viktigste fordelene og ulempene ved hver metode, som et hjelpemiddel når du skal vurdere hva som egner seg best for dine forskningsspørsmål.
+
+&#x20;
+
+<table data-header-hidden><thead><tr><th width="189" valign="bottom"></th><th valign="bottom">Fordeler</th><th valign="bottom">Ulemper</th></tr></thead><tbody><tr><td valign="bottom"><p> </p><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på egen</mark><br><mark style="color:$success;">datainnsamling</mark><br><mark style="color:$success;">(Spørreundersøkelse)</mark></p><p> </p></td><td valign="bottom"><ul><li>Tilpasse spørsmål til problemstillinger</li><li>Aktualitet</li></ul></td><td valign="bottom"><p> </p><p></p><p>Visse respondenter</p><ul><li>forstår ikke spørsmålet</li><li>svarer unøyaktig</li><li>svarer ikke (frafall)</li></ul><p></p><p>Rapporteringsbyrde </p><ul><li>Dyrt </li></ul><ul><li>Lav kvalitet for små grupper</li></ul></td></tr><tr><td valign="bottom"><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på registerdata</mark></p><p> </p></td><td valign="bottom"><p> </p><p></p><ul><li>God dekningsgrad</li><li>Gode data for små grupper</li><li>Lave kostnader</li><li>Data på faste referansetidspunkt</li><li>Ingen ytterligere rapporteringsbyrde</li><li>Respondentene svarer omsorgsfullt på administrative viktige spørsmål</li></ul></td><td valign="bottom"><ul><li>Avhengig av begrensninger/definisjoner<br>i de administrative systemene</li><li>Du kan ikke stille spørsmål selv<br>Lang produksjonstid</li><li>Endringer i de administrative systemene</li><li>Lav kvalitet på variabler som er mindre viktig for de administrative systemene</li></ul></td></tr></tbody></table>
+
+&#x20;
+
+[^1]: 
