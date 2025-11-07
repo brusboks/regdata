@@ -1,5 +1,11 @@
 # Tilgang til registerdata
 
+## <mark style="color:orange;">\[sett inn prosess med å få tilgang i flow chart her]</mark>
+
+<mark style="color:orange;">innspill: hva skal i flow chart da?</mark>&#x20;
+
+<mark style="color:orange;">godkjenninger - valg av variabler - mottak fra ssb...</mark>
+
 ## Manuell deling av individdata
 
 <mark style="color:$danger;">Manuell deling – søke SSB eller dataeier om tilgang til mikrodata. Det vil si få tilgang til data.</mark>
@@ -12,11 +18,15 @@
 
 ### Hva er Microdata.no?
 
-Microdata.no er en nettbasert løsning utviklet av Statistisk sentralbyrå (SSB) og Sikt for å gjøre det enklere å bruke individbaserte registerdata i samfunnsvitenskapelig forskning og undervisning. I stedet for å søke om tilgang til datafiler eller sette opp egne analysemiljøer, kan brukeren logge seg inn og jobbe direkte med data i nettleseren. Dette gjør tjenesten både brukervennlig og trygg, og særlig godt egnet for studenter og forskere som ønsker å jobbe med ekte data uten å håndtere personopplysninger direkte.
+[Microdata.no](https://www.microdata.no/) er en nettbasert løsning utviklet av Statistisk sentralbyrå (SSB) og Sikt for å gjøre det enklere å bruke individbaserte registerdata i samfunnsvitenskapelig forskning og undervisning. I stedet for å søke om tilgang til datafiler eller sette opp egne analysemiljøer, kan brukeren logge seg inn og jobbe direkte med data i nettleseren. Dette gjør tjenesten både brukervennlig og trygg, og særlig godt egnet for studenter og forskere som ønsker å jobbe med ekte data uten å håndtere personopplysninger direkte.
+
+<mark style="color:orange;">Sett inn relevante lenker for microdata her</mark>
 
 ### Hvordan jobber man i Microdata.no?
 
 I Microdata.no foregår all analyse i en nettbasert programmeringsflate. Her skriver brukeren enkle kommandoer for å hente inn, bearbeide og analysere data. Man får aldri tilgang til selve datasettet, men får tilbake summerte resultater i form av tabeller, frekvenser og statistiske mål. Dette bidrar til å ivareta personvernet, samtidig som det åpner for fleksibel og kraftig analyse.
+
+<mark style="color:orange;">Screenshots??</mark>
 
 ### Hvilken type data finnes i Microdata.no?
 
