@@ -10,6 +10,8 @@ Når du leser statistikk eller forskning som bygger på registerdata, er det let
 
 Verdikjeden fra saksbehandling til forskning består gjerne av fire hovedledd:
 
+<figure><img src="../.gitbook/assets/Registrering av opplysninger.png" alt="" width="228"><figcaption></figcaption></figure>
+
 &#x20;
 
 1. **Registrering av opplysninger:** Dette skjer når offentlige etater samler inn data som en del av sin virksomhet. For eksempel registrerer Skatteetaten inntekter basert på arbeidsgiveres og skattyteres innrapportering, mens Nav fører løpende opplysninger om arbeidsledighet, sykdom og deltakelse i tiltak i sine fagsystemer. Informasjonen som registreres kan være alt fra faktiske hendelser (f.eks. «startdato for tiltak») til kategoriseringer (f.eks. «sivilstand», «hoveddiagnose»).
