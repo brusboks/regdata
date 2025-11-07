@@ -38,10 +38,26 @@ Alle som er bosatt i Norge har et 11-sifret personnummer. Det er unikt for hver 
 
 Fordi registerdata ofte brukes til viktige rettigheter og plikter (som utbetalinger og skatt), har folk som regel sterk motivasjon for å rapportere korrekt, og myndighetene har rutiner for å sikre kvalitet. Samtidig må man være klar over at dataene kan inneholde feil, være ufullstendige, eller ha endret definisjoner over tid. Det er derfor viktig å sette seg inn i hvordan variablene er definert og hva de faktisk måler.
 
-&#x20;
+&#x20;<mark style="color:orange;">EN AV DISSE VARIANTENE:</mark>&#x20;
 
-**Kort oppsummert: Hva kjennetegner registerdata?**
+{% hint style="info" %}
+Kort oppsummert. Kva kjennetegner registerdata
 
+
+
+&#x20;·      De er samlet inn av offentlige myndigheter for administrative formål, ikke forskning.
+
+·       De dekker store deler av befolkningen, ofte hele populasjoner.
+
+·       De er strukturert over tid, med informasjon om når ting skjer.
+
+·       De kan kobles på individnivå med andre registre.
+
+·       De har ofte høy kvalitet, men må alltid vurderes kritisk.
+{% endhint %}
+
+{% tabs fullWidth="false" %}
+{% tab title="Oppsummering: Hva kjennetegner registerdata?" %}
 ·       De er samlet inn av offentlige myndigheter for administrative formål, ikke forskning.
 
 ·       De dekker store deler av befolkningen, ofte hele populasjoner.
@@ -50,4 +66,8 @@ Fordi registerdata ofte brukes til viktige rettigheter og plikter (som utbetalin
 
 ·       De kan kobles på individnivå med andre registre.
 
-·       De har ofte høy kvalitet, men må alltid vurderes kritisk.\
+·       De har ofte høy kvalitet, men må alltid vurderes kritisk.
+{% endtab %}
+{% endtabs %}
+
+\
