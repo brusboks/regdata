@@ -85,23 +85,40 @@ Variabler kan være
 
 ## Kodeverk/kodelister
 
+Et kodeverk er en systematisk liste som oversetter koder i registerdata til meningsfulle kategorier. Mange variabler er ikke lagret som tekst, men som tall- eller bokstavkoder, som for eksempel for yrke, næring, diagnose eller utdanningsnivå. Kodelister gjør det mulig å tolke disse kodene riktig, og de kan endre seg over tid.
+
+**Eksempler**
+
+• Yrkeskoder etter STYRK
+
+• Næringskoder etter SN (NACE)
+
+• Diagnosekoder etter ICD-10
+
+• Utdanningskoder etter NUS
+
+## Identifikator (ID-variabel)
+
+En identifikator er en unik nøkkel som brukes til å knytte dataene til riktig enhet. I personregistre er dette vanligvis fødselsnummeret, mens virksomheter identifiseres med organisasjonsnummer. Disse identifikatorene gjør det mulig å følge en enhet over tid og å koble informasjon på tvers av ulike registre.
+
+Når data utleveres til forskning, brukes imidlertid ikke de faktiske identifikatorene. Av hensyn til personvern og datasikkerhet erstattes de med pseudonyme løpenummer (ofte kalt _løpenr_, _pseudonym-ID_ eller _koblingsnøkkel_). Dette betyr at forskeren kan analysere sammenhengene i dataene, for eksempel følge et individ over tid eller koble inntektsdata med helsedata, uten å vite hvem personen eller virksomheten faktisk er. De opprinnelige ID-ene lagres kun i et sikkert «koblingsregister» hos dataeier og er ikke tilgjengelige for forskeren.
+
 ### Temporalitet – data i tid
 
-Et sentralt kjennetegn ved registerdata er at de alltid er knyttet til tid. Dette kalles temporalitet. Det betyr at opplysningene gjelder for et bestemt tidspunkt eller en bestemt tidsperiode. For å kunne tolke dataene riktig, må du vite når de gjelder for. Uten slik informasjon risikerer man å trekke gale slutninger, enten fordi man sammenligner data fra ulike tidspunkter, eller fordi man overser endringer som skjer over tid.
+Temporalitet handler om _når_ en opplysning gjelder, og er et av de viktigste særtrekkene ved registerdata. Fordi opplysninger i offentlige registre alltid er knyttet til et tidspunkt eller en tidsperiode, er forståelsen av temporalitet avgjørende for både tolkning og analyse. To like variabler kan bety helt ulike ting hvis de gjelder for ulike tidspunkter.
 
-Et godt eksempel er inntektsopplysninger fra Skattemeldingsregisteret. Disse gjelder vanligvis hele kalenderåret, og viser hvor mye en person har tjent i løpet av året. Sykemeldingsdata, derimot, kan være knyttet til en konkret måned, uke eller til og med en spesifikk dag. Dersom man ikke tar hensyn til slike forskjeller, kan sammenligninger mellom ulike datakilder eller tidspunkter bli misvisende.
+I registerdata finner vi flere typer tidsangivelse, avhengig av hvordan opplysningen brukes i forvaltningen:
 
-Registerdata kan ha ulike former for temporalitet:
+* Fast: Noen kjennetegn endrer seg ikke over tid og har derfor ingen dato. Eksempler er fødeland eller fødekommune.
+* Forløp: Her registreres både start- og sluttdato, slik som perioden en person har vært ansatt hos en bestemt arbeidsgiver, har mottatt behandling fra spesialisthelsetjenesten, eller mottatt en trygdeytelse.
+* Tverrsnitt: Disse viser status på én bestemt dato, for eksempel om en person er sysselsatt, i gang med utdanning eller arbeidsledig på en referansedato (referansetidspunkt).
+* Akkumulerte data: Noen variabler summeres opp over en periode. Et typisk eksempel er årsinntekt, som viser summen av inntekter i løpet et kalenderår.
 
-**Fast:** Enkelte opplysninger endrer seg ikke over tid og har derfor ingen dato knyttet til seg. Eksempler er fødeland eller fødekommune. Disse er konstante og gjelder for hele livsløpet.
+**Eksempler**
 
-**Forløp:** Her registreres både start- og sluttdato for en hendelse eller tilstand. Dette gjelder for eksempel sivilstand, deltakelse på arbeidsmarkedstiltak eller perioder med mottak av trygdeytelser. Slike data gjør det mulig å følge individers bevegelser og endringer over tid.
+i) Inntektsopplysninger fra Skattemeldingsregisteret. Disse gjelder vanligvis hele kalenderåret, og kan angi hvor mye sykepenger en person har mottatt i løpet av året. Sykemeldingsdata kan derimot være knyttet til en konkret måned, uke eller til og med en spesifikk dag. Dersom man ikke tar hensyn til slike forskjeller, kan sammenligninger mellom de ulike datakildene misvisende.&#x20;
 
-**Tverrsnitt:** Disse gir et øyeblikksbilde og er registrert på én bestemt dato. Eksempelvis viser statuskode i folkeregisteret (bosatt, utvandret, død) hva som gjelder akkurat på referansedatoen.
-
-**Akkumulerte data:** Enkelte variabler summeres opp over en periode. Et typisk eksempel er inntekt, som gjerne oppgis som total for året. I slike tilfeller kan man velge et referansetidspunkt (for eksempel 31. desember) og bruke akkumulerte tall fram til den datoen.
-
-Å forstå hvordan tid er strukturert i registerdata er avgjørende når man skal følge utviklingstrekk i befolkningen eller sammenligne grupper over tid. Temporalitet er med andre ord ikke bare et teknisk aspekt, det er helt grunnleggende for god analyse.
+ii) Data fra SSBs registerbaserte sysselsettingsstatistikk angir om en person er sysselsatt i én bestemt uke i november. Data fra Arbeidsgiver–arbeidstakerregisteret (Aa-registeret) inneholder derimot start- og stoppdatoer for alle arbeidsforhold, og gir dermed et løpende bilde av hvor lenge og når en person faktisk har vært ansatt. Så hva betyr dette for analysene? Den registerbaserte sysselsettingsstatistikken egner seg godt til å beskrive nivåer og sammenligne grupper på ett fast tidspunkt, men den gir lite informasjon om bevegelser inn og ut av arbeid. Aa-registeret gjør det mulig å studere detaljerte forløp, som hvor lenge ansettelsesforhold varer, hyppige jobbytter eller perioder med ustabil tilknytning. Valg av datakilde styrer derfor hvilke typer spørsmål du kan besvare: Tverrsnitt gir oversikt, mens forløpsdata gir mulighet til å analysere endringer, varighet og dynamikk.
 
 &#x20;
 
