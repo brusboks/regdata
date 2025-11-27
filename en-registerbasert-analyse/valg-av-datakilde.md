@@ -5,9 +5,7 @@ icon: '8'
 
 # Valg av datakilde
 
-Når du skal velge datakilde til et forskningsprosjekt, står du ofte overfor et viktig valg: Skal du samle inn egne data gjennom for eksempel en spørreundersøkelse, eller bruke allerede eksisterende registerdata? Begge tilnærmingene har fordeler og ulemper.
-
-&#x20;
+Når du skal velge datakilde til et forskningsprosjekt, står du ofte overfor et viktig valg: Skal du samle inn egne data gjennom for eksempel en spørreundersøkelse,eller bruke allerede eksisterende datakilder som registerdata? Ulike innsamlingsmetoder har noen fordeler og noen ulemper
 
 ## Muligheter og begrensinger ved spørreundersøkelser
 
@@ -17,7 +15,7 @@ I tillegg gir spørreundersøkelser mulighet for å samle inn data med høy aktu
 
 Samtidig har spørreundersøkelser kjente utfordringer. Spørsmål kan misforstås, særlig hvis de er uklart formulert eller bruker faguttrykk. Svarene kan også være unøyaktige, enten fordi folk ønsker å framstille seg selv i et bedre lys, eller rett og slett ikke husker riktig, som når de blir spurt om inntekt (ref ["Hvor stor var din inntekt i fjor?" - SSB](https://www.ssb.no/inntekt-og-forbruk/artikler-og-publikasjoner/hvor-stor-var-din-inntekt-i-fjor)). I tillegg kan mange velge å ikke svare. Hvis frafallet er systematisk, for eksempel at unge eller personer med lav inntekt er underrepresentert, kan resultatene bli skjeve og ikke gi et riktig bilde av virkeligheten.
 
-Å gjennomføre spørreundersøkelser kan dessuten være kostbart. Det krever ressurser både i form av tid, penger og personell. Det skal utvikles gode spørreskjemaer, velges et egnet utvalg, distribueres henvendelser (ofte med påminnelser), og ikke minst skal dataene samles inn, kontrolleres og bearbeides. Dessuten krever representerer det å svare en rapporteringsbyrde for deltakerne. Informantene skal sette av tid til å lese, forstå og svare på spørsmålene, ofte om temaer de må tenke gjennom og noen ganger lete fram informasjon om. Dette kan oppleves som tidkrevende eller belastende, spesielt når spørsmålene er mange, detaljerte eller oppfattes som sensitive.
+Å gjennomføre spørreundersøkelser kan dessuten være kostbart. Det krever ressurser både i form av tid, penger og personell. Det skal utvikles gode spørreskjemaer, velges et egnet utvalg, distribueres henvendelser (ofte med påminnelser), og ikke minst skal dataene samles inn, kontrolleres og bearbeides. Dessuten representerer det å svare en rapporteringsbyrde for deltakerne. Informantene skal sette av tid til å lese, forstå og svare på spørsmålene, ofte om temaer de må tenke gjennom og noen ganger lete fram informasjon om. Dette kan oppleves som tidkrevende eller belastende, spesielt når spørsmålene er mange, detaljerte eller oppfattes som sensitive.
 
 Et annet viktig poeng er at undersøkelser bygger på utvalg, ikke hele befolkningen. Selv om utvalget kan være representativt, gir det begrensninger når man vil studere små grupper. I en levekårsundersøkelse blant innvandrere kan det for eksempel være for få nyankomne flyktninger til at man kan analysere dem som egen gruppe. Tilsvarende kan det være vanskelig å si noe sikkert om unge uføre når bare et fåtall av dem deltar.
 
@@ -55,9 +53,13 @@ Registerdata gjør det mulig å følge utvikling over tid, men bare dersom regis
 
 Når du skal velge hvilken type data som passer til ditt prosjekt, er det viktig å tenke gjennom både hva du ønsker å finne ut av, og hvilke styrker og svakheter de ulike kildene har. Registerdata og spørreundersøkelser utfyller hverandre, men har ulike forutsetninger og begrensninger. Figuren under gir en oppsummering av de viktigste fordelene og ulempene ved hver metode, som et hjelpemiddel når du skal vurdere hva som egner seg best for dine forskningsspørsmål.
 
+## Kort oppsummert
+
+<table data-header-hidden><thead><tr><th width="189" valign="bottom"></th><th valign="bottom">Fordeler</th><th valign="bottom">Ulemper</th></tr></thead><tbody><tr><td valign="bottom"><p> </p><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på egen</mark><br><mark style="color:$success;">datainnsamling</mark><br><mark style="color:$success;">(Spørreundersøkelse)</mark></p><p> </p></td><td valign="bottom"><ul><li>Tilpasse spørsmål til problemstillinger</li><li>Aktualitet</li></ul></td><td valign="bottom"><ul><li> Visse respondenter</li></ul><p>— forstår ikke spørsmålet</p><p>— svarer unøyaktig</p><p>— svarer ikke (frafall)</p><p></p><ul><li>Rapporteringsbyrde </li></ul><p>— Dyrt </p><p>— Lav kvalitet for små grupper</p></td></tr><tr><td valign="bottom"><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på registerdata</mark></p><p></p></td><td valign="bottom"><ul><li>Gopd dekningsgrad</li><li>Gode data for små grupper</li></ul><p></p><ul><li>Lave kostnader</li><li>Data på faste referansetidspunkt</li><li>Ingen ytterligere rapporteringsbyrde</li><li>Respondentene svarer omsorgsfullt på administrative viktige spørsmål</li></ul></td><td valign="bottom"><ul><li>Avhengig av begrensninger/definisjoner<br>i de administrative systemene</li><li>Du kan ikke stille spørsmål selv<br>Lang produksjonstid</li><li>Endringer i de administrative systemene</li><li>Lav kvalitet på variabler som er mindre viktig for de administrative systemene</li></ul></td></tr></tbody></table>
+
 &#x20;
 
-<table data-header-hidden><thead><tr><th width="189" valign="bottom"></th><th valign="bottom">Fordeler</th><th valign="bottom">Ulemper</th></tr></thead><tbody><tr><td valign="bottom"><p> </p><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på egen</mark><br><mark style="color:$success;">datainnsamling</mark><br><mark style="color:$success;">(Spørreundersøkelse)</mark></p><p> </p></td><td valign="bottom"><ul><li>Tilpasse spørsmål til problemstillinger</li><li>Aktualitet</li></ul></td><td valign="bottom"><p> </p><p></p><p>Visse respondenter</p><ul><li>forstår ikke spørsmålet</li><li>svarer unøyaktig</li><li>svarer ikke (frafall)</li></ul><p></p><p>Rapporteringsbyrde </p><ul><li>Dyrt </li><li>Lav kvalitet for små grupper</li></ul></td></tr><tr><td valign="bottom"><p><mark style="color:$success;">Analyser basert</mark><br><mark style="color:$success;">på registerdata</mark></p><p> </p></td><td valign="bottom"><p> </p><p></p><ul><li>God dekningsgrad</li><li>Gode data for små grupper</li><li>Lave kostnader</li><li>Data på faste referansetidspunkt</li><li>Ingen ytterligere rapporteringsbyrde</li><li>Respondentene svarer omsorgsfullt på administrative viktige spørsmål</li></ul></td><td valign="bottom"><ul><li>Avhengig av begrensninger/definisjoner<br>i de administrative systemene</li><li>Du kan ikke stille spørsmål selv<br>Lang produksjonstid</li><li>Endringer i de administrative systemene</li><li>Lav kvalitet på variabler som er mindre viktig for de administrative systemene</li></ul></td></tr></tbody></table>
+&#x20;
 
 &#x20;
 
