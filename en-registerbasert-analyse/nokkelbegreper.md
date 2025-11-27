@@ -125,17 +125,13 @@ ii) Data fra SSBs registerbaserte sysselsettingsstatistikk angir om en person er
 Pseudonymisering betyr at direkte identifiserende opplysninger, som fødselsnummer, navn eller organisasjonsnummer, erstattes med en kunstig identifikator, ofte et løpenummer.\
 Dette gjør at forskeren kan følge samme enhet over tid og koble data på tvers av registre, uten å vite hvem personen eller virksomheten faktisk er.
 
-Eksempel: Når du får tilgang til individdata fra SSB eller Nav, vil en variabel som opprinnelig inneholder fødselsnummer, erstattes med et unikt løpenummer (f.eks. _lopenr = 104823_). Koblingsnøkkelen mellom fødselsnummer og dette løpenummeret lagres hos dataeier og er aldri tilgjengelig for forskeren.
-
-&#x20;
+**Eksempel:** Når du får tilgang til individdata fra SSB eller Nav, vil en variabel som opprinnelig inneholder fødselsnummer, erstattes med et unikt løpenummer (f.eks. _lopenr = 104823_). Koblingsnøkkelen mellom fødselsnummer og dette løpenummeret lagres hos dataeier og er aldri tilgjengelig for forskeren.
 
 ## Anonymisering
 
 Anonymisering betyr at alle muligheter for å identifisere en person er fjernet, både direkte og indirekte. Når data er anonymisert, kan ingen gjenopprette koblingen til den opprinnelige personen, heller ikke dataeier. Anonymiserte data er ikke lenger personopplysninger etter lovverket.
 
-Eksempel: Offentlig statistikk som publiseres av SSB er anonymisert. Tallene gjelder grupper (f.eks. "andel sysselsatte 20–24 år"), aldri enkeltpersoner.
-
-&#x20;
+**Eksempel:** Offentlig statistikk som publiseres av SSB er anonymisert. Tallene gjelder grupper (f.eks. "andel sysselsatte 20–24 år"), aldri enkeltpersoner.
 
 ## Koblingsnøkkel
 

@@ -27,16 +27,6 @@
 * [Tilgang til registerdata](en-registerbasert-analyse/tilgang-til-registerdata/README.md)
   * [Microdata.no](en-registerbasert-analyse/tilgang-til-registerdata/microdata.no.md)
   * [Manuell deling av individdata](en-registerbasert-analyse/tilgang-til-registerdata/manuell-deling-av-individdata.md)
-* [Juridiske krav](en-registerbasert-analyse/juridiske-krav.md)
-
-## NOE HER?
-
-* [Page 4](noe-her/page-4.md)
-
-***
-
-* [En registerbasert analyse](en-registerbasert-analyse-1.md)
-* [UTEN NAVN](uten-navn.md)
 
 ## OPPGAVESETT??
 
