@@ -1,3 +1,7 @@
+---
+icon: '7'
+---
+
 # Nøkkelbegreper
 
 Når du bruker registerdata i forskning, er det lett å fokusere på resultatene og analysene, og glemme å stille det grunnleggende spørsmålet: «Hva slags data er det jeg egentlig jobber med?» For å kunne gjøre gode vurderinger i forskningsprosessen, må du forstå hvordan dataene er bygget opp, hva de faktisk representerer, og hvilke begrensninger som ligger i dem.

@@ -1,4 +1,8 @@
-# Læringsmål
+---
+icon: '2'
+---
+
+# Læringsmål (Dette skal du lære)
 
 Når du har lest denne boka (eventuelt gjennomført denne modulen), skal du kunne: &#x20;
 

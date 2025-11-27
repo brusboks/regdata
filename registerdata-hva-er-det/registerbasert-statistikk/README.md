@@ -1,3 +1,7 @@
+---
+icon: '5'
+---
+
 # Registerbasert statistikk
 
 I Norge er mye av den offisielle statistikken du finner hos Statistisk sentralbyrå (SSB) eller andre etater som Nav …., basert på registerdata. Dette betyr at man ikke samler inn nye opplysninger gjennom spørreundersøkelser, men i stedet henter data direkte fra registrene som er etablert for administrative formål, som for eksempel Folkeregisteret, Skattemeldingen eller Navs interne fagsystemer. Dette kalles registerbasert statistikk, og det har blitt en helt sentral metode for å overvåke, analysere og forstå samfunnsutviklingen.

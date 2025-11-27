@@ -1,3 +1,7 @@
+---
+icon: '9'
+---
+
 # Statistikkområder
 
 <mark style="color:$danger;">En overordnet beskrivelse av emner (statistikkområder) og tilhørende registre, hvilke populasjoner som dekkes og opplysninger som finnes. En mulig inndeling er:</mark>&#x20;

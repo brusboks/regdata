@@ -1,5 +1,6 @@
 ---
 description: Et registerdatasett blir til
+icon: '4'
 ---
 
 # Fra saksbehandling til statistikk og analyse

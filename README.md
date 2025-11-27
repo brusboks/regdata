@@ -7,7 +7,6 @@ icon: binary-lock
 
 Startside. Sier kort noe om boka, hvem som står bak, pluss lenker til andre relevante ting.
 
-\
-
+<br>
 
 &#x20;

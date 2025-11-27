@@ -1,0 +1,2 @@
+# Manuell deling av individdata
+

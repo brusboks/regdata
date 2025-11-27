@@ -1,0 +1,13 @@
+---
+icon: '1'
+---
+
+# Hvorfor en læringsmodul om registerdata?
+
+## Formål
+
+I løpet av de siste 30 årene har opplysninger fra administrative registre - **registerdata** - blitt stadig viktigere som grunnlag for offisiell statistikk. Når for eksempel Statistisk sentralbyrå publiserer tall som beskriver endringer befolkningen i Norge, inntektsforskjeller mellom ulike grupper, eller hvordan utdanningsnivået utvikler seg, bygger dette på opplysninger hentet fra henholdsvis folke-, inntekts- og utdanningsregistre. Registerdata har også blitt en uunnværlig datakilde innen ulike fagområder som helse- og samfunnsforskning. Forskere har blant annet benyttet denne typen data til å studere hvordan inntekt, utdanning og yrke går i arv (Ekren og Grendal 2021), hvordan det går med barn og unge som har hatt tiltak fra barnevernet (Drange et.al 2022), og forskjeller i tilbudet av helsetjenester til personer med lav og høy utdanning (Elstad 2017). Dette er eksempler på at registerdata egner seg særlig godt når man ønsker å følge enkeltpersoner eller familier over tid, og gir muligheten til å undersøke hvordan levekår og livssjanser henger sammen med bakgrunnsforhold som utdanning, helse og sosial status.
+
+Til tross for den økende betydningen registerdata har fått i både statistikkproduksjon og samfunnsforskning, mangler det fortsatt gode lærebøker eller innføringer som på en pedagogisk måte forklarer hva slike data er, hvordan de oppstår, og hvordan de kan brukes i analyser. Informasjonen finnes, men den er ofte spredt mellom tekniske dokumenter, metodiske vedlegg, forskningsartikler og nettsider hos offentlige etater. Mangelen blir ekstra tydelig når vi sammenligner med andre datakilder. Hvis du vil gjøre kvalitative intervjuer eller en spørreundersøkelse, finnes det et stort utvalg av lærebøker som gir hjelp til hele prosessen; fra utforming av intervjuguider og spørreskjemaer, til analysemetoder og håndtering av vanlige utfordringer som lav svarprosent eller skjevt utvalg. Slike bøker gir praktiske råd om hvordan man kan sikre at datainnsamlingen blir pålitelig, og at analysene gir gyldige svar på forskningsspørsmål.
+
+Denne læringsmodulen er laget med tanke på å gjøre det enklere å også komme i gang med registerdata. Målet er å gi deg en praktisk og lettfattelig innføring i hva registerdata er, hvordan de benyttes, og hva du må vite for å kunne bruke dem i egne prosjekter. Den er særlig rettet mot studenter og forskere som er i ferd med å utforske registerdata for første gang, og som trenger en praktisk og tilgjengelig innføring. Her får du oversikt over sentrale begreper, innsikt i hvordan dataene blir til, hva som kjennetegner kvaliteten, og hvordan du kan gå frem for å få tilgang til data og komme i gang med egne analyser.

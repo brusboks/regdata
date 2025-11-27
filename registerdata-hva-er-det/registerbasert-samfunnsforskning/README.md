@@ -1,3 +1,7 @@
+---
+icon: '6'
+---
+
 # Registerbasert samfunnsforskning
 
 <mark style="color:$danger;">Skal gi en beskrivelse av: Hvordan registerdata kan gi svar</mark>
