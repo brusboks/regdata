@@ -20,6 +20,7 @@
 
 ## En registerbasert analyse
 
+* [Eller en innledningsside?](en-registerbasert-analyse/eller-en-innledningsside.md)
 * [Nøkkelbegreper](en-registerbasert-analyse/nokkelbegreper.md)
 * [Valg av datakilde](en-registerbasert-analyse/valg-av-datakilde.md)
 * [Statistikkområder](en-registerbasert-analyse/statistikkomrader.md)

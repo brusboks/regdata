@@ -4,31 +4,86 @@ icon: '7'
 
 # Nøkkelbegreper
 
-Når du bruker registerdata i forskning, er det lett å fokusere på resultatene og analysene, og glemme å stille det grunnleggende spørsmålet: «Hva slags data er det jeg egentlig jobber med?» For å kunne gjøre gode vurderinger i forskningsprosessen, må du forstå hvordan dataene er bygget opp, hva de faktisk representerer, og hvilke begrensninger som ligger i dem.
+Registerdata har sin egen logikk og struktur, som skiller seg fra både spørreundersøkelser og kvalitativt datamateriale. I dette kapitlet får du derfor en oversikt over de mest sentrale begrepene du trenger for å orientere deg i «registerverdenen». Målet er ikke at du skal kunne alt med én gang, men at du skal få et tydelig rammeverk som hjelper deg å lese dokumentasjon, forstå datasett og kjenne igjen hvilke spørsmål du må stille for å vurdere kvalitet og relevans.
 
-Dette kapittelet tar for seg noen sentrale begreper du bør ha kontroll på når du skal bruke registerdata. Hva er for eksempel en variabel, og hvordan skiller det seg fra en enhet? Hva betyr det at dataene er hentet fra et grunndataregister, og hva skiller dette fra et statistikkregister? Hvordan vet du om dataene gjelder et individ eller en husholdning, og hvilket tidspunkt informasjonen gjelder for?
+## Grunndataregister
 
-Gjennom konkrete eksempler og begrepsforklaringer gir kapitlet deg et språk og en forståelse som gjør det lettere å vurdere datakvalitet, tolke resultater og være bevisst på hva slags informasjon du faktisk har mellom hendene. Kort sagt: Det gir deg verktøyene du trenger for å bruke registerdata med både presisjon og kritisk blikk.
+Et grunndataregister refererer til data trukket fra ett spesifikt administrativt register. Her er informasjonen hentet direkte fra systemene som brukes til saksbehandling, kontroll, innrapportering eller tjenesteyting, uten at de nødvendigvis er bearbeidet eller tilrettelagt for analyse. Grunndataregistre kan inneholde detaljerte enkeltopplysninger om personer, virksomheter eller hendelser, slik de faktisk er registrert i forvaltningens systemer.
 
-Her er noen forslag <mark style="color:$danger;">(Som ikke er skrevet ut):</mark>
+Siden grunndataregistre i utgangspunktet har et annet formål enn å utarbeide statistikk eller forske, kan de inneholde:
 
-### **Populasjon**
+* Ubehandlede og lite standardiserte verdier
+* kodeverk som varierer over tid
+* mangler eller feil som skyldes registreringsrutiner
+* detaljer som senere ikke inngår i ferdige statistikker
 
-Populasjonen er gruppen som dataene gjelder for. I registerdata kan populasjonen være alle personer som er bosatt i Norge på et gitt tidspunkt, eller alle mottakere av en bestemt trygdeytelse. Det er viktig å vite hvilken populasjon et register dekker, for å vurdere generaliserbarheten.
+For deg som skal gjøre analyser basert på grunndataregistre er det viktig å være bevisst at dette vil kunne kreve merarbeid for å forstå definisjoner, datakvalitet og logikk.
 
-Eksempel: Et register over personer med arbeidsavklaringspenger har en helt annen populasjon enn et folkeregister som dekker hele befolkningen.
+### Eksempler:&#x20;
 
-### Enhet (analyseenhet)
+* Folkeregisteret gir opplysninger om alle personer som er bosatt i Norge (bosted, fødselsdato, sivilstand mv.)
+* Arbeidsgiver– og arbeidstakerregisteret (Aa-registeret) inneholder informasjon om alle arbeidsforhold i Norge
+* Navs ARENA-register som inneholder detaljer om arbeidssøkere som hva slags arbeidsrettet oppfølging personene mottar og eventuell deltakelse i arbeidsmarkedstiltak
 
-Dette er det grunnleggende nivået som dataene er samlet inn for. I samfunnsforskning med registerdata er enheten ofte individet, men det kan også være husholdning, familie, bedrift eller kommune. Det er viktig å vite hvilken enhet dataene gjelder for, for dette legger naturlig nok føringer for hvordan analysene må gjennomføres.
+<mark style="color:red;">·         ANDRE EKSEMPLER?</mark>
 
-Eksempel: Hvis du har data om inntekt for personer, er individ analyseenheten. Men hvis du skal studere samlet inntekt for husholdninger, må du aggregere opplysningene til husholdningsnivå.
+## &#x20;Statistikkregister
 
-### Variabel
+Et statistikkregister er et datasett som er spesielt tilrettelagt for å lage statistikk eller for å kunne brukes i forskning. I motsetning til grunndataregistre, som inneholder rå og ubehandlede opplysninger direkte fra forvaltningens systemer, består statistikkregistre av bearbeidede og kvalitetssikrede data. Disse dataene kan være hentet fra ett enkelt administrativt register, men ofte er de resultatet av koblinger mellom flere ulike kilder. Formålet med et statistikkregister er å gi et helhetlig og konsistent datagrunnlag som kan belyse et bestemt fenomen, for eksempel sysselsetting, helseforløp eller utdanningsløp. For å oppnå dette må dataene omkodes, harmoniseres og kvalitetssikres slik at de passer sammen på tvers av registre, tidsperioder og definisjoner.
 
-En variabel er en egenskap eller kjennemerke som det er registrert informasjon om. I registerdata kan dette være alt fra alder og kjønn, til inntekt, sykehusinnleggelser eller bostedskommune. Variabler har verdier (for eksempel alder = 34 år) som varierer mellom enheter.
+### Typiske kjennetegn ved statistikkregistre:
 
-Eksempel: «Utdanningsnivå» kan være en variabel, med verdier som «grunnskole», «videregående» og «høyere utdanning».
+* Data er bearbeidet og standardisert, ofte etter felles kodeverk og definisjoner.
+* Informasjon kan være koblet på tvers av flere administrative kilder, som gir bredere og mer fullstendig datagrunnlag.
+* Tidsserier er harmonisert, slik at variablene kan sammenlignes over år.
+* Feil og mangler i grunndata er korrigert eller håndtert, for eksempel ved logiske kontroller.
+* Data er strukturert etter et statistikkformål, ikke etter forvaltningens behov.
+
+Sammenlignet med _grunndataregistre_ er _statistikkregistre_ ofte enklere å jobbe med for deg som skal besvare et forskningsspørsmål fordi en stor del av tilretteleggingen allerede er gjort.
+
+### Eksempler:&#x20;
+
+* _SSBs registerbaserte sysselsettingsstatistikk_. Dataene bygger på koblinger mellom flere administrative kilder, blant annet A-ordningen (arbeidsforhold og lønnsopplysninger), Registeret over vernepliktige og sivilarbeidere, Navs ARENA-register (for å avgjøre hvem som regnes som sysselsatt i referanseuken). Bearbeidingen gjør det mulig å produsere konsistent og sammenlignbar statistikk om sysselsetting på tvers av år og grupper.
+* _FD-Trygd_ er en omfattende forløpsdatabase som SSB forvalter, hvor data om blant annet trygdeytelser, sysselsetting, utdanning, sosialhjelp og demografi er samlet. FD-Trygd er spesielt utviklet for forskning på velferd og sosialpolitikk, og gir mulighet til å følge enkeltpersoners bevegelser over tid.
+
+## **Populasjon**
+
+Populasjonen er den gruppen av personer eller enheter som et datasett omfatter. I registerdata består den som regel av alle som faller inn under et bestemt kriterium. Populasjonen kan være veldig bred, som i Folkeregisteret. Dette registeret omfatter alle som er bosatt i Norge. Den kan også være smal og spesialisert, som i et register over mottakere av arbeidsavklaringspenger, som kun vil inneholde personer med den aktuelle ytelsen.
+
+### Eksempel
+
+Dersom du analyserer data hentet fra Navs register over personer som har fått utbetalt uføretrygd, sier resultatene dine kun noe om denne gruppen, ikke om hele befolkningen. Skal du derimot studere flytting, er Folkeregisteret ofte riktig populasjon, fordi det dekker alle bosatte.
+
+## Enhet (analyseenhet)
+
+Enheten er det nivået dataene er registrert på, og utgjør byggesteinene i datasettet ditt. I registerdata er enheten ofte individet, men den kan også være en husholdning, en familie, en bedrift, et arbeidsforhold eller en kommune, avhengig av hva registeret er laget for.
+
+Å kjenne analyseenheten er avgjørende fordi den bestemmer hva du faktisk kan si noe om. Har du individdata, kan du analysere individuelle utfall som inntekt, utdanning eller trygdehistorikk. Men skal du studere forhold som gjelder flere personer samlet, for eksempel husholdningens totale inntekt eller antall barn i familien, må dataene først aggregeres til et nivå som matcher problemstillingen.
+
+#### Eksempel
+
+Et inntektsregister gir i utgangspunktet informasjon om hvor mye hver enkelt person har tjent i et gitt år. Enheten er altså _individet_. Hvis du skal beregne om noen tilhører lavinntektsgruppen, tar du imidlertid ikke utgangspunkt i personens egen inntekt alene. Lavinntekt vurderes på husholdningsnivå, der inntektene til alle i husholdningen legges sammen og deretter justeres for husholdningsstørrelse. For å gjøre en slik analyse må du derfor først konstruere en ny enhet: _husholdningen_. Dette innebærer å:
+
+* identifisere hvilke personer som bor i samme husholdning
+* summere inntektene deres
+* knytte dette tilbake til hver enkelt person som analyseenhet (dersom analysen fortsatt skal gjøres på individnivå)
+
+Selv om dataene opprinnelig er registrert per person, er det altså husholdningen som er riktig analyseenhet for spørsmålet du ønsker å belyse.
+
+## Variabel
+
+En variabel er en bestemt egenskap, opplysning eller kjennetegn som er registrert om hver enhet i datasettet.
+
+### Eksempler:&#x20;
+
+Variabler kan være
+
+* kontinuerlige, som inntekt eller alder
+* kategoriske, som kjønn, sivilstand eller utdanningsnivå
+* datoer og tidsperioder, som start- og sluttdato for en ytelse
+* koder som for eksempel angir yrke, næring, diagnoser osv.
+
+## Kodeverk/kodelister
 
 ### Temporalitet – data i tid
 
