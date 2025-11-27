@@ -120,14 +120,25 @@ i) Inntektsopplysninger fra Skattemeldingsregisteret. Disse gjelder vanligvis he
 
 ii) Data fra SSBs registerbaserte sysselsettingsstatistikk angir om en person er sysselsatt i én bestemt uke i november. Data fra Arbeidsgiver–arbeidstakerregisteret (Aa-registeret) inneholder derimot start- og stoppdatoer for alle arbeidsforhold, og gir dermed et løpende bilde av hvor lenge og når en person faktisk har vært ansatt. Så hva betyr dette for analysene? Den registerbaserte sysselsettingsstatistikken egner seg godt til å beskrive nivåer og sammenligne grupper på ett fast tidspunkt, men den gir lite informasjon om bevegelser inn og ut av arbeid. Aa-registeret gjør det mulig å studere detaljerte forløp, som hvor lenge ansettelsesforhold varer, hyppige jobbytter eller perioder med ustabil tilknytning. Valg av datakilde styrer derfor hvilke typer spørsmål du kan besvare: Tverrsnitt gir oversikt, mens forløpsdata gir mulighet til å analysere endringer, varighet og dynamikk.
 
+## Pseudonymisering
+
+Pseudonymisering betyr at direkte identifiserende opplysninger, som fødselsnummer, navn eller organisasjonsnummer, erstattes med en kunstig identifikator, ofte et løpenummer.\
+Dette gjør at forskeren kan følge samme enhet over tid og koble data på tvers av registre, uten å vite hvem personen eller virksomheten faktisk er.
+
+Eksempel: Når du får tilgang til individdata fra SSB eller Nav, vil en variabel som opprinnelig inneholder fødselsnummer, erstattes med et unikt løpenummer (f.eks. _lopenr = 104823_). Koblingsnøkkelen mellom fødselsnummer og dette løpenummeret lagres hos dataeier og er aldri tilgjengelig for forskeren.
+
 &#x20;
 
-### Andre aktuelle begreper:
+## Anonymisering
 
-**·       Microdata med «c»**
+Anonymisering betyr at alle muligheter for å identifisere en person er fjernet, både direkte og indirekte. Når data er anonymisert, kan ingen gjenopprette koblingen til den opprinnelige personen, heller ikke dataeier. Anonymiserte data er ikke lenger personopplysninger etter lovverket.
 
-**·       Mikrodata med «k»**
+Eksempel: Offentlig statistikk som publiseres av SSB er anonymisert. Tallene gjelder grupper (f.eks. "andel sysselsatte 20–24 år"), aldri enkeltpersoner.
 
-·  **Grunndataregister:** Inneholder data hentet fra ett konkret administrativt register. Eks.: Folkeregisteret, Navs Arena register som gir opplysninger om oppfølging i Nav, Skatteoppgjørsregisteret...eksempler
+&#x20;
 
-**·       Statistikkregister:** Sammensetting av data fra flere administrative kilder for produksjon av statistikk eller analyse av et bestemt fenomen. Eks.: Statistisk sentralbyrås registerbaserte sysselsettingsstatistikk som kobler data fra A-ordningen, registeret over vernepliktige og sivilarbeidere fra Forsvarets personell og vernepliktsenter, Navs Arena-register for å klassifisere personer som sysselsatte.
+## Koblingsnøkkel
+
+En koblingsnøkkel er en variabel som brukes når data fra flere registre skal knyttes sammen. For personer er dette ofte (pseudonymiserte) fødselsnummer, mens for bedrifter er det organisasjonsnummer. Kvaliteten på koblingsnøkkelen er avgjørende for kvaliteten på hele datasettet.
+
+<mark style="color:$danger;">(Kommentar: Andre begreper som kan tas med: Ulike typer data – Anonyme, indirekte identifiserbare, direkte identifiserbare. Grønne, gule, røde data (sensitive data))</mark>
