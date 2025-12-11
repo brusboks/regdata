@@ -1,8 +1,8 @@
 ---
-icon: '2'
+icon: '3'
 ---
 
-# Læringsmål (Dette skal du lære)
+# Din vei til trygg og effektiv bruk av registerdata
 
 Når du har lest denne boka (eventuelt gjennomført denne modulen), skal du kunne: &#x20;
 

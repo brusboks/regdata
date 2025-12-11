@@ -2,31 +2,32 @@
 
 * [En innføring i registerdata](README.md)
 
-## Innledning
+## I. Introduksjon
 
-* [Hvorfor en læringsmodul om registerdata?](innledning/hvorfor-en-laeringsmodul-om-registerdata.md)
-* [Læringsmål (Dette skal du lære)](innledning/laeringsmal-dette-skal-du-laere.md)
+* [Hvorfor lære om registerdata?](i.-introduksjon/hvorfor-laere-om-registerdata.md)
+* [Registerdata til bruk i samfunnsforskning](i.-introduksjon/registerdata-til-bruk-i-samfunnsforskning.md)
+* [Din vei til trygg og effektiv bruk av registerdata](i.-introduksjon/din-vei-til-trygg-og-effektiv-bruk-av-registerdata.md)
 
-## Registerdata - hva er det?
+## II. Registerdata - hva er det?
 
-* [Registerdata - en definisjon](registerdata-hva-er-det/registerdata-en-definisjon.md)
-* [Fra saksbehandling til statistikk og analyse](registerdata-hva-er-det/fra-saksbehandling-til-statistikk-og-analyse.md)
-* [Registerbasert statistikk](registerdata-hva-er-det/registerbasert-statistikk/README.md)
-  * [Registerbasert statistikk i Norge](registerdata-hva-er-det/registerbasert-statistikk/registerbasert-statistikk-i-norge.md)
-  * [Løpende statistikk basert på registerdata](registerdata-hva-er-det/registerbasert-statistikk/lopende-statistikk-basert-pa-registerdata.md)
-  * [Statistikkbanken](registerdata-hva-er-det/registerbasert-statistikk/statistikkbanken.md)
-* [Registerbasert samfunnsforskning](registerdata-hva-er-det/registerbasert-samfunnsforskning/README.md)
-  * [Et par eksempler fra forskningens verden](registerdata-hva-er-det/registerbasert-samfunnsforskning/et-par-eksempler-fra-forskningens-verden.md)
+* [Registerdata - en definisjon](ii.-registerdata-hva-er-det/registerdata-en-definisjon.md)
+* [Fra saksbehandling til statistikk og analyse](ii.-registerdata-hva-er-det/fra-saksbehandling-til-statistikk-og-analyse.md)
+* [Registerbasert statistikk](ii.-registerdata-hva-er-det/registerbasert-statistikk/README.md)
+  * [Registerbasert statistikk i Norge](ii.-registerdata-hva-er-det/registerbasert-statistikk/registerbasert-statistikk-i-norge.md)
+  * [Løpende statistikk basert på registerdata](ii.-registerdata-hva-er-det/registerbasert-statistikk/lopende-statistikk-basert-pa-registerdata.md)
+  * [Statistikkbanken](ii.-registerdata-hva-er-det/registerbasert-statistikk/statistikkbanken.md)
+* [Registerbasert samfunnsforskning](ii.-registerdata-hva-er-det/registerbasert-samfunnsforskning/README.md)
+  * [Et par eksempler fra forskningens verden](ii.-registerdata-hva-er-det/registerbasert-samfunnsforskning/et-par-eksempler-fra-forskningens-verden.md)
 
-## En registerbasert analyse
+## III. En registerbasert analyse
 
-* [Eller en innledningsside?](en-registerbasert-analyse/eller-en-innledningsside.md)
-* [Nøkkelbegreper](en-registerbasert-analyse/nokkelbegreper.md)
-* [Valg av datakilde](en-registerbasert-analyse/valg-av-datakilde.md)
-* [Statistikkområder](en-registerbasert-analyse/statistikkomrader.md)
-* [Tilgang til registerdata](en-registerbasert-analyse/tilgang-til-registerdata/README.md)
-  * [Microdata.no](en-registerbasert-analyse/tilgang-til-registerdata/microdata.no.md)
-  * [Manuell deling av individdata](en-registerbasert-analyse/tilgang-til-registerdata/manuell-deling-av-individdata.md)
+* [Eller en innledningsside?](iii.-en-registerbasert-analyse/eller-en-innledningsside.md)
+* [Nøkkelbegreper](iii.-en-registerbasert-analyse/nokkelbegreper.md)
+* [Valg av datakilde](iii.-en-registerbasert-analyse/valg-av-datakilde.md)
+* [Statistikkområder](iii.-en-registerbasert-analyse/statistikkomrader.md)
+* [Tilgang til registerdata](iii.-en-registerbasert-analyse/tilgang-til-registerdata/README.md)
+  * [Microdata.no](iii.-en-registerbasert-analyse/tilgang-til-registerdata/microdata.no.md)
+  * [Manuell deling av individdata](iii.-en-registerbasert-analyse/tilgang-til-registerdata/manuell-deling-av-individdata.md)
 
 ## OPPGAVESETT??
 
