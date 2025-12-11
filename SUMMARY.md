@@ -5,7 +5,7 @@
 ## DEL I
 
 * [Introduksjon](del-i/introduksjon.md)
-* [Hvorfor lære om registerdata?](del-i/hvorfor-laere-om-registerdata.md)
+* [1. Hvorfor lære om registerdata?](del-i/1.-hvorfor-laere-om-registerdata.md)
 * [Registerdata til bruk i samfunnsforskning](del-i/registerdata-til-bruk-i-samfunnsforskning.md)
 * [Din vei til trygg og effektiv bruk av registerdata](del-i/din-vei-til-trygg-og-effektiv-bruk-av-registerdata.md)
 
@@ -25,12 +25,12 @@
 
 * [En registerbasert analyse](del-iii/en-registerbasert-analyse.md)
 * [Nøkkelbegreper](del-iii/nokkelbegreper.md)
-* [Valg av datakilde](del-iii/valg-av-datakilde.md)
-* [Statistikkområder](del-iii/statistikkomrader.md)
-* [Tilgang til registerdata](del-iii/tilgang-til-registerdata/README.md)
-  * [Microdata.no](del-iii/tilgang-til-registerdata/microdata.no.md)
-  * [Manuell deling av individdata](del-iii/tilgang-til-registerdata/manuell-deling-av-individdata.md)
+* [9. Valg av datakilde](del-iii/9.-valg-av-datakilde.md)
+* [10. Statistikkområder](del-iii/10.-statistikkomrader.md)
+* [11. Tilgang til registerdata](del-iii/11.-tilgang-til-registerdata/README.md)
+  * [Microdata.no](del-iii/11.-tilgang-til-registerdata/microdata.no.md)
+  * [Utlån av individdata](del-iii/11.-tilgang-til-registerdata/utlan-av-individdata.md)
 
-## OPPGAVESETT??
+## DEL IV
 
-* [oppgaver??](oppgavesett/oppgaver.md)
+* [Case](del-iv/case.md)
