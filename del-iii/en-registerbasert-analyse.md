@@ -1,4 +1,8 @@
-# Eller en innledningsside?
+---
+icon: square-list
+---
+
+# En registerbasert analyse
 
 Det å analysere et fenomen eller besvare et forskningsspørsmål basert på registerdata, er mer enn å «lage en tabell» eller «kjøre en regresjon». Den består av en rekke bevisste vurderinger og beslutninger som påvirker resultatene dine, og hvor godt de kan tolkes. I denne delen tar vi derfor deg gjennom steg for steg det grunnleggende du trenger for å jobbe sikkert og faglig presist med registerdata.
 

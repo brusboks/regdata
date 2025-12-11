@@ -65,6 +65,8 @@ Når dataene er kvalitetssikret og strukturert, kan de også benyttes til forskn
 
 <mark style="color:orange;">**Registrering av opplysninger**</mark>
 
+<div><figure><img src="../.gitbook/assets/Bilde 4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Bilde 3.png" alt=""><figcaption></figcaption></figure></div>
+
 </details>
 
 
@@ -77,7 +79,7 @@ I tillegg påvirkes kvaliteten på variablene av hvor viktige de er for saksbeha
 
 Å kjenne til hvordan registerdata produseres, er ikke bare nyttig, det er nødvendig. Det gir deg et bedre grunnlag for å designe analysen din, tolke funnene riktig og vurdere hvor sikre konklusjoner du faktisk kan trekke. Dette er nøkkelen til god, solid og troverdig registerbasert forskning.&#x20;
 
-##
+
 
 {% tabs %}
 {% tab title="Kort oppsummert" %}
