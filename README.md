@@ -7,8 +7,6 @@ icon: binary-lock
 
 Startside. Sier kort noe om boka, hvem som står bak, pluss lenker til andre relevante ting.
 
-Registerdata som grunnmur for samfunnsforskning<br>
-
 {% tabs %}
 {% tab title="Kort oppsummert" %}
 * Registerdata har fått en nøkkelrolle i norsk samfunnskunnskap fordi de dekker hele befolkningen, oppdateres jevnlig og gjør det mulig å følge personer og grupper over tid.

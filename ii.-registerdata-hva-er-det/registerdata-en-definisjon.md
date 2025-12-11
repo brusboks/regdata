@@ -1,5 +1,5 @@
 ---
-icon: '3'
+icon: '4'
 ---
 
 # Registerdata - en definisjon
@@ -14,29 +14,39 @@ Når du leser beskrivelser av hvilket datagrunnlag som er brukt i statistikk ell
 Registerdata er administrative opplysninger som er systematisk samlet og organisert i offentlige registre.
 {% endhint %}
 
-For å forstå registerdata og hvordan de kan brukes i analyse og forskning, er det nyttig å kjenne til noen grunnleggende trekk ved denne typen informasjon. Disse kjennetegnene springer direkte ut av måten dataene oppstår på, nemlig gjennom vanlig saksbehandling i offentlig forvaltning.
+For fullt ut å forstå hva registerdata innebærer, må denne enkle definisjonen pakkes ut. Videre går vi derfor gjennom de mest grunnleggende kjennetegnene ved registerdata, som skiller seg fra andre datakilder ved at de oppstår gjennom vanlig saksbehandling i offentlig forvaltning.
 
-## Ikke laget for forskning
+
+
+**1. Ikke laget for forskning**
 
 Registerdata blir ikke samlet inn for å lage statistikk eller svare på forskningsspørsmål, men for å løse konkrete oppgaver i samfunnet. Nav registrerer opplysninger for å vurdere rett til ytelser eller kartlegge bistandsbehov, Skatteetaten samler inn inntektsinformasjon for å beregne skatt, og helsetjenesten dokumenterer behandling for å sikre oppfølging og planlegging. At dataene har et administrativt formål, påvirker både hva som registreres, hvor presist det registreres og hvordan verdiene er definert.
 
-## Dekker hele befolkningen eller hele grupper
+
+
+**2. Dekker hele befolkningen eller hele grupper**
 
 I motsetning til spørreundersøkelser, som i all hovedsak bygger på utvalg, dekker mange registre hele populasjoner. Folkeregisteret omfatter alle bosatte i Norge, Norsk pasientregister dekker alle som har kontakt med spesialisthelsetjenesten, og Aa-registeret inneholder alle arbeidsforhold. Denne «fullstendigheten» gjør registerdata svært egnet til analyser av små grupper, sjeldne hendelser og detaljerte sammenlikninger, og gjør at man unngår bortfall og skjevheter som ofte oppstår i surveydata.
 
-## Inneholder informasjon over tid
+
+
+3. **Inneholder informasjon over tid**
 
 Det meste i forvaltningen skjer på et bestemt tidspunkt, og derfor er også registerdata alltid knyttet til tid. Opplysninger som flyttedato, start og slutt på arbeidsforhold, eller vedtaksdatoer gjør det mulig å følge personer og grupper over tid. Dette gir mulighet til å studere forløp, endringer og overgangene mennesker gjør gjennom livet, og gjennomføre årsak-effekt analyser.
 
-## Kan kolbes mellom registre
+
+
+4. **Kan kobles mellom registre**
 
 Alle som er bosatt i Norge har et 11-sifret personnummer. Det er unikt for hver enkelt, og brukes som identifikator i de fleste offentlige registre. Dette gjør det mulig å koble opplysninger om samme person på tvers av administrative systemer. For eksempel kan man koble utdanning fra Utdanningsregisteret med inntekt fra Skatteetaten eller trygdehistorikk fra Nav. Når slike koblinger gjøres på en trygg og forskriftsmessig måte, kan vi studere komplekse sammenhenger, som hvordan helse henger sammen med arbeid, eller hvordan foreldres utdanningsnivå påvirker barnas livssjanser.
 
-## **Høy kvalitet – men ikke uten begrensninger**
+
+
+5. **Høy kvalitet – men ikke uten begrensninger**
 
 Fordi registerdata ofte brukes til viktige rettigheter og plikter (som utbetalinger og skatt), har folk som regel sterk motivasjon for å rapportere korrekt, og myndighetene har rutiner for å sikre kvalitet. Samtidig må man være klar over at dataene kan inneholde feil, være ufullstendige, eller ha endret definisjoner over tid. Det er derfor viktig å sette seg inn i hvordan variablene er definert og hva de faktisk måler.
 
-## Kort opsummering
+
 
 {% tabs fullWidth="false" %}
 {% tab title="Hva kjennetegner registerdata?" %}
